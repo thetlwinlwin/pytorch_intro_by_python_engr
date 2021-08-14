@@ -1,3 +1,4 @@
+#this can be random.
 class BlogPost:
     def __init__(self,title, author, created_timestamp, update_timestamp, content):
         self.title = title
@@ -16,6 +17,5 @@ def render_blogpost(blogpost):
 
 render_blogpost(blog_post1)
 render_blogpost(blog_post2)
-
 
 # you can do whatever you want within this.
