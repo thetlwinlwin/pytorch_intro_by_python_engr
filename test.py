@@ -19,3 +19,4 @@ render_blogpost(blog_post1)
 render_blogpost(blog_post2)
 
 # you can do whatever you want within this.
+# this is second gg.
