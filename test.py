@@ -1,3 +1,4 @@
+#this can be random.
 class BlogPost:
     def __init__(self,title, author, created_timestamp, update_timestamp, content):
         self.title = title
